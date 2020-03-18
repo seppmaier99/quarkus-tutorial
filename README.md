@@ -1,3 +1,5 @@
+![Java CI with Maven](https://github.com/seppmaier99/quarkus-tutorial/workflows/Java%20CI%20with%20Maven/badge.svg)
+
 # fruits-app project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
